@@ -1,0 +1,1595 @@
+[05.06.2023 11:02:38 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 11:02:38 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 11:02:38 | WARNING]: Updates were skipped successfully.
+[05.06.2023 11:02:39 | INFO]: Start polling.
+[05.06.2023 11:12:43 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-40' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=TypeError("'coroutine' object is not subscriptable")>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 61, in wrapper
+    if await bot.get_chat_member(chat_id, user_id)['status'] is not "administrator" or "creator":
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: 'coroutine' object is not subscriptable
+[05.06.2023 11:13:37 | INFO]: Stop polling...
+[05.06.2023 11:13:37 | WARNING]: Goodbye!
+[05.06.2023 11:13:40 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 11:13:40 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 11:13:40 | WARNING]: Updates were skipped successfully.
+[05.06.2023 11:13:40 | INFO]: Start polling.
+[05.06.2023 11:13:43 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=TypeError("'coroutine' object is not subscriptable")>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 62, in wrapper
+    if await member_permission['status'] is not "administrator" or "creator":
+             ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+TypeError: 'coroutine' object is not subscriptable
+[05.06.2023 11:14:09 | INFO]: Stop polling...
+[05.06.2023 11:14:09 | WARNING]: Goodbye!
+[05.06.2023 11:14:11 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 11:14:11 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 11:14:11 | WARNING]: Updates were skipped successfully.
+[05.06.2023 11:14:11 | INFO]: Start polling.
+[05.06.2023 11:14:45 | INFO]: Stop polling...
+[05.06.2023 11:14:45 | WARNING]: Goodbye!
+[05.06.2023 11:14:47 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 11:14:47 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 11:14:47 | WARNING]: Updates were skipped successfully.
+[05.06.2023 11:14:47 | INFO]: Start polling.
+[05.06.2023 11:15:03 | INFO]: Stop polling...
+[05.06.2023 11:15:03 | WARNING]: Goodbye!
+[05.06.2023 11:15:06 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 11:15:06 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 11:15:06 | WARNING]: Updates were skipped successfully.
+[05.06.2023 11:15:06 | INFO]: Start polling.
+[05.06.2023 11:15:54 | INFO]: Stop polling...
+[05.06.2023 11:15:54 | WARNING]: Goodbye!
+[05.06.2023 11:15:56 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 11:15:56 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 11:15:57 | WARNING]: Updates were skipped successfully.
+[05.06.2023 11:15:57 | INFO]: Start polling.
+[05.06.2023 11:17:17 | INFO]: Stop polling...
+[05.06.2023 11:17:17 | WARNING]: Goodbye!
+[05.06.2023 11:17:20 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 11:17:20 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 11:17:20 | WARNING]: Updates were skipped successfully.
+[05.06.2023 11:17:20 | INFO]: Start polling.
+[05.06.2023 11:17:42 | INFO]: Connecting...
+[05.06.2023 11:17:42 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 11:17:42 | INFO]: NetworkTask started
+[05.06.2023 11:17:43 | INFO]: Session initialized: Layer 158
+[05.06.2023 11:17:43 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 11:17:43 | INFO]: System: Windows 10 (en)
+[05.06.2023 11:17:43 | INFO]: Session started
+[05.06.2023 11:17:43 | INFO]: PingTask started
+[05.06.2023 11:17:43 | INFO]: Started 24 HandlerTasks
+[05.06.2023 11:17:43 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 11:17:43 | INFO]: PingTask stopped
+[05.06.2023 11:17:43 | INFO]: Disconnected
+[05.06.2023 11:17:43 | INFO]: NetworkTask stopped
+[05.06.2023 11:17:43 | INFO]: Session stopped
+[05.06.2023 11:18:11 | INFO]: Stop polling...
+[05.06.2023 11:18:11 | WARNING]: Goodbye!
+[05.06.2023 11:18:14 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 11:18:14 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 11:18:14 | WARNING]: Updates were skipped successfully.
+[05.06.2023 11:18:14 | INFO]: Start polling.
+[05.06.2023 11:23:12 | INFO]: Stop polling...
+[05.06.2023 11:23:12 | WARNING]: Goodbye!
+[05.06.2023 11:23:14 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 11:23:14 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 11:23:14 | WARNING]: Updates were skipped successfully.
+[05.06.2023 11:23:14 | INFO]: Start polling.
+[05.06.2023 11:23:18 | INFO]: Connecting...
+[05.06.2023 11:23:18 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 11:23:18 | INFO]: NetworkTask started
+[05.06.2023 11:23:19 | INFO]: Session initialized: Layer 158
+[05.06.2023 11:23:19 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 11:23:19 | INFO]: System: Windows 10 (en)
+[05.06.2023 11:23:19 | INFO]: Session started
+[05.06.2023 11:23:19 | INFO]: PingTask started
+[05.06.2023 11:23:19 | INFO]: Started 24 HandlerTasks
+[05.06.2023 11:23:19 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 11:23:19 | INFO]: PingTask stopped
+[05.06.2023 11:23:19 | INFO]: Disconnected
+[05.06.2023 11:23:19 | INFO]: NetworkTask stopped
+[05.06.2023 11:23:19 | INFO]: Session stopped
+[05.06.2023 11:23:35 | INFO]: Connecting...
+[05.06.2023 11:23:35 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 11:23:35 | INFO]: NetworkTask started
+[05.06.2023 11:23:35 | INFO]: Session initialized: Layer 158
+[05.06.2023 11:23:35 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 11:23:35 | INFO]: System: Windows 10 (en)
+[05.06.2023 11:23:35 | INFO]: Session started
+[05.06.2023 11:23:35 | INFO]: PingTask started
+[05.06.2023 11:23:36 | INFO]: Started 24 HandlerTasks
+[05.06.2023 11:23:36 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 11:23:36 | INFO]: PingTask stopped
+[05.06.2023 11:23:36 | INFO]: Disconnected
+[05.06.2023 11:23:36 | INFO]: NetworkTask stopped
+[05.06.2023 11:23:36 | INFO]: Session stopped
+[05.06.2023 11:23:40 | INFO]: Connecting...
+[05.06.2023 11:23:40 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 11:23:40 | INFO]: NetworkTask started
+[05.06.2023 11:23:41 | INFO]: Session initialized: Layer 158
+[05.06.2023 11:23:41 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 11:23:41 | INFO]: System: Windows 10 (en)
+[05.06.2023 11:23:41 | INFO]: Session started
+[05.06.2023 11:23:41 | INFO]: PingTask started
+[05.06.2023 11:23:41 | INFO]: Started 24 HandlerTasks
+[05.06.2023 11:23:41 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 11:23:41 | INFO]: PingTask stopped
+[05.06.2023 11:23:41 | INFO]: Disconnected
+[05.06.2023 11:23:41 | INFO]: NetworkTask stopped
+[05.06.2023 11:23:41 | INFO]: Session stopped
+[05.06.2023 11:23:49 | INFO]: Connecting...
+[05.06.2023 11:23:49 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 11:23:49 | INFO]: NetworkTask started
+[05.06.2023 11:23:49 | INFO]: Session initialized: Layer 158
+[05.06.2023 11:23:49 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 11:23:49 | INFO]: System: Windows 10 (en)
+[05.06.2023 11:23:49 | INFO]: Session started
+[05.06.2023 11:23:49 | INFO]: PingTask started
+[05.06.2023 11:23:49 | INFO]: Started 24 HandlerTasks
+[05.06.2023 11:23:49 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 11:23:49 | INFO]: PingTask stopped
+[05.06.2023 11:23:49 | INFO]: Disconnected
+[05.06.2023 11:23:49 | INFO]: NetworkTask stopped
+[05.06.2023 11:23:49 | INFO]: Session stopped
+[05.06.2023 11:26:51 | INFO]: Stop polling...
+[05.06.2023 11:26:51 | WARNING]: Goodbye!
+[05.06.2023 11:26:53 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 11:26:53 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 11:26:53 | WARNING]: Updates were skipped successfully.
+[05.06.2023 11:26:53 | INFO]: Start polling.
+[05.06.2023 11:29:01 | INFO]: Connecting...
+[05.06.2023 11:29:01 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 11:29:01 | INFO]: NetworkTask started
+[05.06.2023 11:29:02 | INFO]: Session initialized: Layer 158
+[05.06.2023 11:29:02 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 11:29:02 | INFO]: System: Windows 10 (en)
+[05.06.2023 11:29:02 | INFO]: Session started
+[05.06.2023 11:29:02 | INFO]: PingTask started
+[05.06.2023 11:29:02 | INFO]: Started 24 HandlerTasks
+[05.06.2023 11:29:02 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 11:29:02 | INFO]: PingTask stopped
+[05.06.2023 11:29:02 | INFO]: Disconnected
+[05.06.2023 11:29:02 | INFO]: NetworkTask stopped
+[05.06.2023 11:29:02 | INFO]: Session stopped
+[05.06.2023 11:31:44 | INFO]: Stop polling...
+[05.06.2023 11:31:44 | WARNING]: Goodbye!
+[05.06.2023 11:32:06 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 11:32:06 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 11:32:06 | WARNING]: Updates were skipped successfully.
+[05.06.2023 11:32:06 | INFO]: Start polling.
+[05.06.2023 13:54:14 | INFO]: Stop polling...
+[05.06.2023 13:54:14 | WARNING]: Goodbye!
+[05.06.2023 14:39:19 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 14:39:19 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 14:39:19 | WARNING]: Updates were skipped successfully.
+[05.06.2023 14:39:19 | WARNING]: Goodbye!
+[05.06.2023 14:51:48 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 14:51:49 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 14:51:49 | WARNING]: Updates were skipped successfully.
+[05.06.2023 14:51:49 | INFO]: Start polling.
+[05.06.2023 14:51:57 | INFO]: Stop polling...
+[05.06.2023 14:51:57 | WARNING]: Goodbye!
+[05.06.2023 14:52:41 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 14:52:41 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 14:52:41 | WARNING]: Updates were skipped successfully.
+[05.06.2023 14:52:41 | INFO]: Start polling.
+[05.06.2023 14:55:29 | INFO]: Stop polling...
+[05.06.2023 14:55:29 | WARNING]: Goodbye!
+[05.06.2023 14:55:31 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 14:55:31 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 14:55:31 | WARNING]: Updates were skipped successfully.
+[05.06.2023 14:55:31 | INFO]: Start polling.
+[05.06.2023 14:55:45 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Database' object has no attribute 'c'")>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_start.py", line 13, in cmd_start_private
+    await db.create_default_table_user()
+  File "E:\PYprojects\bots\negrV2.2\databases\datamanger.py", line 14, in create_default_table_user
+    self.c.execute("CREATE TABLE IF NOT EXISTS default (number INT NOT NULL AUTO_INCREMENT, id INT, name TEXT)")
+    ^^^^^^
+AttributeError: 'Database' object has no attribute 'c'
+[05.06.2023 14:59:26 | INFO]: Stop polling...
+[05.06.2023 14:59:26 | WARNING]: Goodbye!
+[05.06.2023 14:59:28 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 14:59:29 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 14:59:29 | WARNING]: Updates were skipped successfully.
+[05.06.2023 14:59:29 | INFO]: Start polling.
+[05.06.2023 15:01:46 | INFO]: Connecting...
+[05.06.2023 15:01:46 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 15:01:46 | INFO]: NetworkTask started
+[05.06.2023 15:01:47 | INFO]: Session initialized: Layer 158
+[05.06.2023 15:01:47 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 15:01:47 | INFO]: System: Windows 10 (en)
+[05.06.2023 15:01:47 | INFO]: Session started
+[05.06.2023 15:01:47 | INFO]: PingTask started
+[05.06.2023 15:01:47 | INFO]: Started 24 HandlerTasks
+[05.06.2023 15:01:47 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 15:01:47 | INFO]: PingTask stopped
+[05.06.2023 15:01:47 | INFO]: Disconnected
+[05.06.2023 15:01:47 | INFO]: NetworkTask stopped
+[05.06.2023 15:01:47 | INFO]: Session stopped
+[05.06.2023 15:11:57 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 15:11:57 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 15:11:57 | WARNING]: Updates were skipped successfully.
+[05.06.2023 15:11:57 | INFO]: Start polling.
+[05.06.2023 15:12:04 | INFO]: Connecting...
+[05.06.2023 15:12:04 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 15:12:04 | INFO]: NetworkTask started
+[05.06.2023 15:12:04 | INFO]: Session initialized: Layer 158
+[05.06.2023 15:12:04 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 15:12:04 | INFO]: System: Windows 10 (en)
+[05.06.2023 15:12:04 | INFO]: Session started
+[05.06.2023 15:12:04 | INFO]: PingTask started
+[05.06.2023 15:12:04 | INFO]: Started 24 HandlerTasks
+[05.06.2023 15:12:04 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 15:12:04 | INFO]: PingTask stopped
+[05.06.2023 15:12:04 | INFO]: Disconnected
+[05.06.2023 15:12:04 | INFO]: NetworkTask stopped
+[05.06.2023 15:12:04 | INFO]: Session stopped
+[05.06.2023 15:23:39 | INFO]: Stop polling...
+[05.06.2023 15:23:39 | WARNING]: Goodbye!
+[05.06.2023 15:23:42 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 15:23:42 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 15:23:42 | WARNING]: Updates were skipped successfully.
+[05.06.2023 15:23:42 | INFO]: Start polling.
+[05.06.2023 15:23:45 | INFO]: Connecting...
+[05.06.2023 15:23:45 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 15:23:45 | INFO]: NetworkTask started
+[05.06.2023 15:23:45 | INFO]: Session initialized: Layer 158
+[05.06.2023 15:23:45 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 15:23:45 | INFO]: System: Windows 10 (en)
+[05.06.2023 15:23:45 | INFO]: Session started
+[05.06.2023 15:23:45 | INFO]: PingTask started
+[05.06.2023 15:23:45 | INFO]: Started 24 HandlerTasks
+[05.06.2023 15:23:45 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 15:23:45 | INFO]: PingTask stopped
+[05.06.2023 15:23:45 | INFO]: Disconnected
+[05.06.2023 15:23:45 | INFO]: NetworkTask stopped
+[05.06.2023 15:23:45 | INFO]: Session stopped
+[05.06.2023 15:24:07 | INFO]: Stop polling...
+[05.06.2023 15:24:07 | WARNING]: Goodbye!
+[05.06.2023 15:24:09 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 15:24:10 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 15:24:10 | WARNING]: Updates were skipped successfully.
+[05.06.2023 15:24:10 | INFO]: Start polling.
+[05.06.2023 15:27:22 | INFO]: Stop polling...
+[05.06.2023 15:27:22 | WARNING]: Goodbye!
+[05.06.2023 15:27:25 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 15:27:25 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 15:27:25 | WARNING]: Updates were skipped successfully.
+[05.06.2023 15:27:25 | INFO]: Start polling.
+[05.06.2023 15:40:44 | INFO]: Stop polling...
+[05.06.2023 15:40:44 | WARNING]: Goodbye!
+[05.06.2023 15:40:47 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 15:40:47 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 15:40:47 | WARNING]: Updates were skipped successfully.
+[05.06.2023 15:40:47 | INFO]: Start polling.
+[05.06.2023 15:40:58 | INFO]: Connecting...
+[05.06.2023 15:40:58 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 15:40:58 | INFO]: NetworkTask started
+[05.06.2023 15:40:58 | INFO]: Session initialized: Layer 158
+[05.06.2023 15:40:58 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 15:40:58 | INFO]: System: Windows 10 (en)
+[05.06.2023 15:40:58 | INFO]: Session started
+[05.06.2023 15:40:58 | INFO]: PingTask started
+[05.06.2023 15:40:58 | INFO]: Started 24 HandlerTasks
+[05.06.2023 15:40:58 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 15:40:58 | INFO]: PingTask stopped
+[05.06.2023 15:40:58 | INFO]: Disconnected
+[05.06.2023 15:40:58 | INFO]: NetworkTask stopped
+[05.06.2023 15:40:58 | INFO]: Session stopped
+[05.06.2023 15:45:13 | INFO]: Stop polling...
+[05.06.2023 15:45:13 | WARNING]: Goodbye!
+[05.06.2023 15:45:16 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 15:45:16 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 15:45:16 | WARNING]: Updates were skipped successfully.
+[05.06.2023 15:45:16 | INFO]: Start polling.
+[05.06.2023 15:45:26 | INFO]: Connecting...
+[05.06.2023 15:45:26 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 15:45:26 | INFO]: NetworkTask started
+[05.06.2023 15:45:26 | INFO]: Session initialized: Layer 158
+[05.06.2023 15:45:26 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 15:45:26 | INFO]: System: Windows 10 (en)
+[05.06.2023 15:45:26 | INFO]: Session started
+[05.06.2023 15:45:27 | INFO]: PingTask started
+[05.06.2023 15:45:27 | INFO]: Started 24 HandlerTasks
+[05.06.2023 15:45:27 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 15:45:27 | INFO]: PingTask stopped
+[05.06.2023 15:45:27 | INFO]: Disconnected
+[05.06.2023 15:45:27 | INFO]: NetworkTask stopped
+[05.06.2023 15:45:27 | INFO]: Session stopped
+[05.06.2023 15:46:30 | INFO]: Stop polling...
+[05.06.2023 15:46:30 | WARNING]: Goodbye!
+[05.06.2023 15:46:32 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 15:46:33 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 15:46:33 | WARNING]: Updates were skipped successfully.
+[05.06.2023 15:46:33 | INFO]: Start polling.
+[05.06.2023 15:46:43 | INFO]: Connecting...
+[05.06.2023 15:46:43 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 15:46:43 | INFO]: NetworkTask started
+[05.06.2023 15:46:43 | INFO]: Session initialized: Layer 158
+[05.06.2023 15:46:43 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 15:46:43 | INFO]: System: Windows 10 (en)
+[05.06.2023 15:46:43 | INFO]: Session started
+[05.06.2023 15:46:43 | INFO]: PingTask started
+[05.06.2023 15:46:43 | INFO]: Started 24 HandlerTasks
+[05.06.2023 15:46:43 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 15:46:43 | INFO]: PingTask stopped
+[05.06.2023 15:46:43 | INFO]: Disconnected
+[05.06.2023 15:46:43 | INFO]: NetworkTask stopped
+[05.06.2023 15:46:43 | INFO]: Session stopped
+[05.06.2023 16:04:21 | INFO]: Stop polling...
+[05.06.2023 16:04:21 | WARNING]: Goodbye!
+[05.06.2023 16:04:23 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 16:04:24 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 16:04:24 | WARNING]: Updates were skipped successfully.
+[05.06.2023 16:04:24 | INFO]: Start polling.
+[05.06.2023 16:06:09 | INFO]: Stop polling...
+[05.06.2023 16:06:09 | WARNING]: Goodbye!
+[05.06.2023 16:06:12 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 16:06:12 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 16:06:12 | WARNING]: Updates were skipped successfully.
+[05.06.2023 16:06:12 | INFO]: Start polling.
+[05.06.2023 16:09:04 | INFO]: Stop polling...
+[05.06.2023 16:09:04 | WARNING]: Goodbye!
+[05.06.2023 16:09:08 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 16:09:08 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 16:09:08 | WARNING]: Updates were skipped successfully.
+[05.06.2023 16:09:08 | INFO]: Start polling.
+[05.06.2023 16:15:32 | INFO]: Stop polling...
+[05.06.2023 16:15:32 | WARNING]: Goodbye!
+[05.06.2023 16:15:34 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 16:15:34 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 16:15:35 | WARNING]: Updates were skipped successfully.
+[05.06.2023 16:15:35 | INFO]: Start polling.
+[05.06.2023 16:30:25 | INFO]: Stop polling...
+[05.06.2023 16:30:25 | WARNING]: Goodbye!
+[05.06.2023 16:30:28 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 16:30:28 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 16:30:28 | WARNING]: Updates were skipped successfully.
+[05.06.2023 16:30:28 | INFO]: Start polling.
+[05.06.2023 17:04:28 | INFO]: Stop polling...
+[05.06.2023 17:04:28 | WARNING]: Goodbye!
+[05.06.2023 17:04:31 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 17:04:31 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 17:04:31 | WARNING]: Updates were skipped successfully.
+[05.06.2023 17:04:31 | INFO]: Start polling.
+[05.06.2023 17:04:53 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=KeyError('moderator')>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 68, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 52, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_moderator.py", line 20, in cmd_kick
+    await bot.send_message(chat.id, replaceYml(data['moderator']['userKicked'], user=user, usr=usr))
+                                               ~~~~^^^^^^^^^^^^^
+KeyError: 'moderator'
+[05.06.2023 17:05:23 | INFO]: Stop polling...
+[05.06.2023 17:05:23 | WARNING]: Goodbye!
+[05.06.2023 17:05:26 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 17:05:26 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 17:05:27 | WARNING]: Updates were skipped successfully.
+[05.06.2023 17:05:27 | INFO]: Start polling.
+[05.06.2023 17:05:49 | INFO]: Stop polling...
+[05.06.2023 17:05:49 | WARNING]: Goodbye!
+[05.06.2023 17:05:51 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 17:05:51 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 17:05:51 | WARNING]: Updates were skipped successfully.
+[05.06.2023 17:05:51 | INFO]: Start polling.
+[05.06.2023 17:16:37 | INFO]: Stop polling...
+[05.06.2023 17:16:37 | WARNING]: Goodbye!
+[05.06.2023 17:16:40 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 17:16:40 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 17:16:40 | WARNING]: Updates were skipped successfully.
+[05.06.2023 17:16:40 | INFO]: Start polling.
+[05.06.2023 17:17:26 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-39' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=TypeError("object str can't be used in 'await' expression")>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_moderator.py", line 20, in cmd_kick
+    await bot.kick_chat_member(chat.id, usr.id)
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\bot\bot.py", line 1863, in kick_chat_member
+    return await self.ban_chat_member(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\bot\bot.py", line 1853, in ban_chat_member
+    return await self.request(api.Methods.BAN_CHAT_MEMBER, payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.CantRestrictChatOwner: Can't remove chat owner
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 68, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 52, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_moderator.py", line 24, in cmd_kick
+    await message.reply(await data['messages']['moderator']['userNotFound'])
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object str can't be used in 'await' expression
+[05.06.2023 17:18:04 | INFO]: Stop polling...
+[05.06.2023 17:18:04 | WARNING]: Goodbye!
+[05.06.2023 17:18:06 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 17:18:06 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 17:18:06 | WARNING]: Updates were skipped successfully.
+[05.06.2023 17:18:06 | INFO]: Start polling.
+[05.06.2023 17:18:41 | INFO]: Stop polling...
+[05.06.2023 17:18:41 | WARNING]: Goodbye!
+[05.06.2023 17:18:43 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 17:18:43 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 17:18:43 | WARNING]: Updates were skipped successfully.
+[05.06.2023 17:18:43 | INFO]: Start polling.
+[05.06.2023 17:19:17 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-11' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=KeyError('moderator')>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 68, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 52, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_moderator.py", line 16, in cmd_kick
+    await message.reply(await replaceYml(data['moderator']['kickSelf'], user=user))
+                                         ~~~~^^^^^^^^^^^^^
+KeyError: 'moderator'
+[05.06.2023 17:19:38 | INFO]: Stop polling...
+[05.06.2023 17:19:38 | WARNING]: Goodbye!
+[05.06.2023 17:19:40 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 17:19:40 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 17:19:40 | WARNING]: Updates were skipped successfully.
+[05.06.2023 17:19:41 | INFO]: Start polling.
+[05.06.2023 17:20:07 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-11' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=KeyError('kickSelf')>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 68, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 52, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_moderator.py", line 16, in cmd_kick
+    await message.reply(await replaceYml(data['messages']['moderator']['kickSelf'], user=user))
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'kickSelf'
+[05.06.2023 17:20:24 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'NoneType' object has no attribute 'mention'")>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 68, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 52, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_moderator.py", line 16, in cmd_kick
+    await message.reply(await replaceYml(data['messages']['moderator']['kickSelf'], user=user))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 19, in replaceYml
+    outD = [user.full_name, usr.mention, user.mention]
+                            ^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'mention'
+[05.06.2023 17:21:56 | INFO]: Stop polling...
+[05.06.2023 17:21:56 | WARNING]: Goodbye!
+[05.06.2023 17:21:58 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 17:21:59 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 17:21:59 | WARNING]: Updates were skipped successfully.
+[05.06.2023 17:21:59 | INFO]: Start polling.
+[05.06.2023 17:22:02 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'NoneType' object has no attribute 'mention'")>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 68, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 52, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_moderator.py", line 16, in cmd_kick
+    await message.reply(await replaceYml(data['messages']['moderator']['kickSelf'], user=user, usr=None))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 19, in replaceYml
+    outD = [user.full_name, usr.mention, user.mention]
+                            ^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'mention'
+[05.06.2023 17:35:11 | INFO]: Stop polling...
+[05.06.2023 17:35:11 | WARNING]: Goodbye!
+[05.06.2023 17:35:13 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 17:35:13 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 17:35:14 | WARNING]: Updates were skipped successfully.
+[05.06.2023 17:35:14 | INFO]: Start polling.
+[05.06.2023 17:44:33 | INFO]: Stop polling...
+[05.06.2023 17:44:33 | WARNING]: Goodbye!
+[05.06.2023 17:44:36 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 17:44:36 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 17:44:36 | WARNING]: Updates were skipped successfully.
+[05.06.2023 17:44:36 | INFO]: Start polling.
+[05.06.2023 17:54:20 | INFO]: Stop polling...
+[05.06.2023 17:54:20 | WARNING]: Goodbye!
+[05.06.2023 17:54:23 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 17:54:23 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 17:54:23 | WARNING]: Updates were skipped successfully.
+[05.06.2023 17:54:23 | INFO]: Start polling.
+[05.06.2023 17:55:07 | INFO]: Stop polling...
+[05.06.2023 17:55:07 | WARNING]: Goodbye!
+[05.06.2023 17:55:10 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 17:55:10 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 17:55:10 | WARNING]: Updates were skipped successfully.
+[05.06.2023 17:55:10 | INFO]: Start polling.
+[05.06.2023 18:38:48 | INFO]: Stop polling...
+[05.06.2023 18:38:48 | WARNING]: Goodbye!
+[05.06.2023 19:03:24 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 19:03:24 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 19:03:24 | WARNING]: Updates were skipped successfully.
+[05.06.2023 19:03:24 | INFO]: Start polling.
+[05.06.2023 19:04:40 | INFO]: Stop polling...
+[05.06.2023 19:04:40 | WARNING]: Goodbye!
+[05.06.2023 19:04:42 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 19:04:43 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 19:04:43 | WARNING]: Updates were skipped successfully.
+[05.06.2023 19:04:43 | INFO]: Start polling.
+[05.06.2023 19:05:20 | INFO]: Connecting...
+[05.06.2023 19:05:20 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 19:05:20 | INFO]: NetworkTask started
+[05.06.2023 19:05:21 | INFO]: Session initialized: Layer 158
+[05.06.2023 19:05:21 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 19:05:21 | INFO]: System: Windows 10 (en)
+[05.06.2023 19:05:21 | INFO]: Session started
+[05.06.2023 19:05:21 | INFO]: PingTask started
+[05.06.2023 19:05:21 | INFO]: Started 24 HandlerTasks
+[05.06.2023 19:05:21 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 19:05:21 | INFO]: PingTask stopped
+[05.06.2023 19:05:21 | INFO]: Disconnected
+[05.06.2023 19:05:21 | INFO]: NetworkTask stopped
+[05.06.2023 19:05:21 | INFO]: Session stopped
+[05.06.2023 19:05:21 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=UsernameNotOccupied('Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")')>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\storage\sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: @'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: ''
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\storage\sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: '
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 68, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 52, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_moderator.py", line 48, in cmd_kick_without_reply
+    userid = await getUserByName(args[0])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 110, in getUserByName
+    return await pyro_main(username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 106, in pyro_main
+    userid = await app.get_chat(username)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\chats\get_chat.py", line 78, in get_chat
+    peer = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\session\session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\session\session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameNotOccupied: Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")
+[05.06.2023 19:06:25 | INFO]: Stop polling...
+[05.06.2023 19:06:25 | WARNING]: Goodbye!
+[05.06.2023 19:06:27 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 19:06:28 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 19:06:28 | WARNING]: Updates were skipped successfully.
+[05.06.2023 19:06:28 | INFO]: Start polling.
+[05.06.2023 19:07:22 | INFO]: Stop polling...
+[05.06.2023 19:07:22 | WARNING]: Goodbye!
+[05.06.2023 19:07:24 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 19:07:25 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 19:07:25 | WARNING]: Updates were skipped successfully.
+[05.06.2023 19:07:25 | INFO]: Start polling.
+[05.06.2023 19:07:49 | INFO]: Connecting...
+[05.06.2023 19:07:49 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 19:07:49 | INFO]: NetworkTask started
+[05.06.2023 19:07:49 | INFO]: Session initialized: Layer 158
+[05.06.2023 19:07:49 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 19:07:49 | INFO]: System: Windows 10 (en)
+[05.06.2023 19:07:49 | INFO]: Session started
+[05.06.2023 19:07:49 | INFO]: PingTask started
+[05.06.2023 19:07:49 | INFO]: Started 24 HandlerTasks
+[05.06.2023 19:07:49 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 19:07:49 | INFO]: PingTask stopped
+[05.06.2023 19:07:49 | INFO]: Disconnected
+[05.06.2023 19:07:49 | INFO]: NetworkTask stopped
+[05.06.2023 19:07:49 | INFO]: Session stopped
+[05.06.2023 19:08:00 | INFO]: Connecting...
+[05.06.2023 19:08:00 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 19:08:00 | INFO]: NetworkTask started
+[05.06.2023 19:08:00 | INFO]: Session initialized: Layer 158
+[05.06.2023 19:08:00 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 19:08:00 | INFO]: System: Windows 10 (en)
+[05.06.2023 19:08:00 | INFO]: Session started
+[05.06.2023 19:08:00 | INFO]: PingTask started
+[05.06.2023 19:08:00 | INFO]: Started 24 HandlerTasks
+[05.06.2023 19:08:00 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 19:08:00 | INFO]: PingTask stopped
+[05.06.2023 19:08:00 | INFO]: Disconnected
+[05.06.2023 19:08:00 | INFO]: NetworkTask stopped
+[05.06.2023 19:08:00 | INFO]: Session stopped
+[05.06.2023 19:14:28 | INFO]: Stop polling...
+[05.06.2023 19:14:28 | WARNING]: Goodbye!
+[05.06.2023 19:14:31 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 19:14:31 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 19:14:31 | WARNING]: Updates were skipped successfully.
+[05.06.2023 19:14:31 | INFO]: Start polling.
+[05.06.2023 19:15:28 | INFO]: Connecting...
+[05.06.2023 19:15:28 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 19:15:28 | INFO]: NetworkTask started
+[05.06.2023 19:15:28 | INFO]: Session initialized: Layer 158
+[05.06.2023 19:15:28 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 19:15:28 | INFO]: System: Windows 10 (en)
+[05.06.2023 19:15:28 | INFO]: Session started
+[05.06.2023 19:15:28 | INFO]: PingTask started
+[05.06.2023 19:15:28 | INFO]: Started 24 HandlerTasks
+[05.06.2023 19:15:28 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 19:15:28 | INFO]: PingTask stopped
+[05.06.2023 19:15:28 | INFO]: Disconnected
+[05.06.2023 19:15:28 | INFO]: NetworkTask stopped
+[05.06.2023 19:15:28 | INFO]: Session stopped
+[05.06.2023 19:15:28 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-15' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=UsernameNotOccupied('Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")')>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\storage\sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: @'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: ''
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\storage\sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: '
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 68, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 52, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_moderator.py", line 48, in cmd_kick_without_reply
+    userid = await getUserByName(args[0])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 110, in getUserByName
+    return await pyro_main(username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 106, in pyro_main
+    userid = await app.get_chat(username)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\chats\get_chat.py", line 78, in get_chat
+    peer = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\session\session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\session\session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameNotOccupied: Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")
+[05.06.2023 19:15:58 | INFO]: Stop polling...
+[05.06.2023 19:15:58 | WARNING]: Goodbye!
+[05.06.2023 19:16:00 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 19:16:00 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 19:16:00 | WARNING]: Updates were skipped successfully.
+[05.06.2023 19:16:00 | INFO]: Start polling.
+[05.06.2023 19:16:06 | INFO]: Connecting...
+[05.06.2023 19:16:06 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 19:16:06 | INFO]: NetworkTask started
+[05.06.2023 19:16:07 | INFO]: Session initialized: Layer 158
+[05.06.2023 19:16:07 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 19:16:07 | INFO]: System: Windows 10 (en)
+[05.06.2023 19:16:07 | INFO]: Session started
+[05.06.2023 19:16:07 | INFO]: PingTask started
+[05.06.2023 19:16:07 | INFO]: Started 24 HandlerTasks
+[05.06.2023 19:16:07 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 19:16:07 | INFO]: PingTask stopped
+[05.06.2023 19:16:07 | INFO]: Disconnected
+[05.06.2023 19:16:07 | INFO]: NetworkTask stopped
+[05.06.2023 19:16:07 | INFO]: Session stopped
+[05.06.2023 19:16:07 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=UsernameNotOccupied('Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")')>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\storage\sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: @'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: ''
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\storage\sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: '
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 68, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 52, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_moderator.py", line 48, in cmd_kick_without_reply
+    userid = await getUserByName(args[0])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 110, in getUserByName
+    return await pyro_main(username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 106, in pyro_main
+    userid = await app.get_chat(username)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\chats\get_chat.py", line 78, in get_chat
+    peer = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\session\session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\session\session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameNotOccupied: Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")
+[05.06.2023 19:16:17 | INFO]: Connecting...
+[05.06.2023 19:16:17 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 19:16:17 | INFO]: NetworkTask started
+[05.06.2023 19:16:17 | INFO]: Session initialized: Layer 158
+[05.06.2023 19:16:17 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 19:16:17 | INFO]: System: Windows 10 (en)
+[05.06.2023 19:16:17 | INFO]: Session started
+[05.06.2023 19:16:17 | INFO]: PingTask started
+[05.06.2023 19:16:17 | INFO]: Started 24 HandlerTasks
+[05.06.2023 19:16:17 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 19:16:17 | INFO]: PingTask stopped
+[05.06.2023 19:16:17 | INFO]: Disconnected
+[05.06.2023 19:16:17 | INFO]: NetworkTask stopped
+[05.06.2023 19:16:17 | INFO]: Session stopped
+[05.06.2023 19:16:17 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-77' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=UsernameNotOccupied('Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")')>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\storage\sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: @'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: ''
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\storage\sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: '
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 68, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 52, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_moderator.py", line 48, in cmd_kick_without_reply
+    userid = await getUserByName(args[0])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 110, in getUserByName
+    return await pyro_main(username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 106, in pyro_main
+    userid = await app.get_chat(username)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\chats\get_chat.py", line 78, in get_chat
+    peer = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\session\session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\session\session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameNotOccupied: Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")
+[05.06.2023 19:23:57 | INFO]: Stop polling...
+[05.06.2023 19:23:57 | WARNING]: Goodbye!
+[05.06.2023 19:24:00 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 19:24:00 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 19:24:00 | WARNING]: Updates were skipped successfully.
+[05.06.2023 19:24:00 | INFO]: Start polling.
+[05.06.2023 19:24:03 | INFO]: Connecting...
+[05.06.2023 19:24:03 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 19:24:03 | INFO]: NetworkTask started
+[05.06.2023 19:24:04 | INFO]: Session initialized: Layer 158
+[05.06.2023 19:24:04 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 19:24:04 | INFO]: System: Windows 10 (en)
+[05.06.2023 19:24:04 | INFO]: Session started
+[05.06.2023 19:24:04 | INFO]: PingTask started
+[05.06.2023 19:24:04 | INFO]: Started 24 HandlerTasks
+[05.06.2023 19:24:04 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 19:24:04 | INFO]: PingTask stopped
+[05.06.2023 19:24:04 | INFO]: Disconnected
+[05.06.2023 19:24:04 | INFO]: NetworkTask stopped
+[05.06.2023 19:24:04 | INFO]: Session stopped
+[05.06.2023 19:24:04 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=UsernameNotOccupied('Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")')>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\storage\sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: @'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: ''
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\storage\sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: '
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 68, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 52, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_moderator.py", line 48, in cmd_kick_without_reply
+    userid = await getUserByName(args[0])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 112, in getUserByName
+    return await pyro_main(username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 108, in pyro_main
+    userid = await app.get_chat(username)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\chats\get_chat.py", line 78, in get_chat
+    peer = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\session\session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\session\session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameNotOccupied: Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")
+[05.06.2023 19:25:10 | INFO]: Stop polling...
+[05.06.2023 19:25:10 | WARNING]: Goodbye!
+[05.06.2023 19:25:13 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 19:25:13 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 19:25:13 | WARNING]: Updates were skipped successfully.
+[05.06.2023 19:25:13 | INFO]: Start polling.
+[05.06.2023 20:00:48 | INFO]: Stop polling...
+[05.06.2023 20:00:48 | WARNING]: Goodbye!
+[05.06.2023 20:00:50 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 20:00:51 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 20:00:51 | WARNING]: Updates were skipped successfully.
+[05.06.2023 20:00:51 | INFO]: Start polling.
+[05.06.2023 20:02:55 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 20:02:55 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 20:02:55 | WARNING]: Updates were skipped successfully.
+[05.06.2023 20:02:55 | INFO]: Start polling.
+[05.06.2023 20:02:59 | INFO]: Connecting...
+[05.06.2023 20:02:59 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 20:02:59 | INFO]: NetworkTask started
+[05.06.2023 20:02:59 | INFO]: Session initialized: Layer 158
+[05.06.2023 20:02:59 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 20:02:59 | INFO]: System: Windows 10 (en)
+[05.06.2023 20:02:59 | INFO]: Session started
+[05.06.2023 20:02:59 | INFO]: PingTask started
+[05.06.2023 20:03:00 | INFO]: Started 24 HandlerTasks
+[05.06.2023 20:03:00 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 20:03:00 | INFO]: PingTask stopped
+[05.06.2023 20:03:00 | INFO]: Disconnected
+[05.06.2023 20:03:00 | INFO]: NetworkTask stopped
+[05.06.2023 20:03:00 | INFO]: Session stopped
+[05.06.2023 20:04:13 | INFO]: Stop polling...
+[05.06.2023 20:04:13 | WARNING]: Goodbye!
+[05.06.2023 20:04:16 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 20:04:16 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 20:04:16 | WARNING]: Updates were skipped successfully.
+[05.06.2023 20:04:16 | INFO]: Start polling.
+[05.06.2023 20:04:24 | INFO]: Connecting...
+[05.06.2023 20:04:24 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 20:04:24 | INFO]: NetworkTask started
+[05.06.2023 20:04:25 | INFO]: Session initialized: Layer 158
+[05.06.2023 20:04:25 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 20:04:25 | INFO]: System: Windows 10 (en)
+[05.06.2023 20:04:25 | INFO]: Session started
+[05.06.2023 20:04:25 | INFO]: PingTask started
+[05.06.2023 20:04:25 | INFO]: Started 24 HandlerTasks
+[05.06.2023 20:04:25 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 20:04:25 | INFO]: PingTask stopped
+[05.06.2023 20:04:25 | INFO]: Disconnected
+[05.06.2023 20:04:25 | INFO]: NetworkTask stopped
+[05.06.2023 20:04:25 | INFO]: Session stopped
+[05.06.2023 20:04:25 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=TypeError("'Chat' object is not subscriptable")>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 68, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 52, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_moderator.py", line 48, in cmd_kick_without_reply
+    userid = await getUserByName(args[1])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 111, in getUserByName
+    return await pyro_main(username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 107, in pyro_main
+    userid = userid['id']
+             ~~~~~~^^^^^^
+TypeError: 'Chat' object is not subscriptable
+[05.06.2023 20:04:36 | INFO]: Stop polling...
+[05.06.2023 20:04:36 | WARNING]: Goodbye!
+[05.06.2023 20:04:38 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 20:04:38 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 20:04:38 | WARNING]: Updates were skipped successfully.
+[05.06.2023 20:04:38 | INFO]: Start polling.
+[05.06.2023 20:04:40 | INFO]: Connecting...
+[05.06.2023 20:04:40 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 20:04:40 | INFO]: NetworkTask started
+[05.06.2023 20:04:40 | INFO]: Session initialized: Layer 158
+[05.06.2023 20:04:40 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 20:04:40 | INFO]: System: Windows 10 (en)
+[05.06.2023 20:04:40 | INFO]: Session started
+[05.06.2023 20:04:40 | INFO]: PingTask started
+[05.06.2023 20:04:40 | INFO]: Started 24 HandlerTasks
+[05.06.2023 20:04:40 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 20:04:40 | INFO]: PingTask stopped
+[05.06.2023 20:04:40 | INFO]: Disconnected
+[05.06.2023 20:04:40 | INFO]: NetworkTask stopped
+[05.06.2023 20:04:40 | INFO]: Session stopped
+[05.06.2023 20:04:40 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=UsernameInvalid('Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")')>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\storage\sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: @ejidzekm\\'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: 'ejidzekm\\'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\storage\sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: ejidzekm\\'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 68, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 52, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_moderator.py", line 48, in cmd_kick_without_reply
+    userid = await getUserByName(args[1])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 111, in getUserByName
+    return await pyro_main(username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 106, in pyro_main
+    userid = await app.get_chat(username)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\chats\get_chat.py", line 78, in get_chat
+    peer = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\methods\advanced\invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\session\session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\session\session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\pyrogram\errors\rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameInvalid: Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")
+[05.06.2023 20:04:54 | INFO]: Connecting...
+[05.06.2023 20:04:54 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 20:04:54 | INFO]: NetworkTask started
+[05.06.2023 20:04:55 | INFO]: Session initialized: Layer 158
+[05.06.2023 20:04:55 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 20:04:55 | INFO]: System: Windows 10 (en)
+[05.06.2023 20:04:55 | INFO]: Session started
+[05.06.2023 20:04:55 | INFO]: PingTask started
+[05.06.2023 20:04:55 | INFO]: Started 24 HandlerTasks
+[05.06.2023 20:04:55 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 20:04:55 | INFO]: PingTask stopped
+[05.06.2023 20:04:55 | INFO]: Disconnected
+[05.06.2023 20:04:55 | INFO]: NetworkTask stopped
+[05.06.2023 20:04:55 | INFO]: Session stopped
+[05.06.2023 20:05:26 | INFO]: Stop polling...
+[05.06.2023 20:05:26 | WARNING]: Goodbye!
+[05.06.2023 20:05:29 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 20:05:29 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 20:05:29 | WARNING]: Updates were skipped successfully.
+[05.06.2023 20:05:29 | INFO]: Start polling.
+[05.06.2023 20:05:34 | INFO]: Connecting...
+[05.06.2023 20:05:34 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 20:05:34 | INFO]: NetworkTask started
+[05.06.2023 20:05:35 | INFO]: Session initialized: Layer 158
+[05.06.2023 20:05:35 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 20:05:35 | INFO]: System: Windows 10 (en)
+[05.06.2023 20:05:35 | INFO]: Session started
+[05.06.2023 20:05:35 | INFO]: PingTask started
+[05.06.2023 20:05:35 | INFO]: Started 24 HandlerTasks
+[05.06.2023 20:05:35 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 20:05:35 | INFO]: PingTask stopped
+[05.06.2023 20:05:35 | INFO]: Disconnected
+[05.06.2023 20:05:35 | INFO]: NetworkTask stopped
+[05.06.2023 20:05:35 | INFO]: Session stopped
+[05.06.2023 20:06:34 | INFO]: Stop polling...
+[05.06.2023 20:06:34 | WARNING]: Goodbye!
+[05.06.2023 20:06:37 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 20:06:37 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 20:06:37 | WARNING]: Updates were skipped successfully.
+[05.06.2023 20:06:38 | INFO]: Start polling.
+[05.06.2023 20:06:41 | INFO]: Connecting...
+[05.06.2023 20:06:41 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 20:06:41 | INFO]: NetworkTask started
+[05.06.2023 20:06:41 | INFO]: Session initialized: Layer 158
+[05.06.2023 20:06:41 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 20:06:41 | INFO]: System: Windows 10 (en)
+[05.06.2023 20:06:41 | INFO]: Session started
+[05.06.2023 20:06:41 | INFO]: PingTask started
+[05.06.2023 20:06:41 | INFO]: Started 24 HandlerTasks
+[05.06.2023 20:06:42 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 20:06:42 | INFO]: PingTask stopped
+[05.06.2023 20:06:42 | INFO]: Disconnected
+[05.06.2023 20:06:42 | INFO]: NetworkTask stopped
+[05.06.2023 20:06:42 | INFO]: Session stopped
+[05.06.2023 20:06:48 | INFO]: Connecting...
+[05.06.2023 20:06:48 | INFO]: Connected! Production DC2 - IPv4
+[05.06.2023 20:06:48 | INFO]: NetworkTask started
+[05.06.2023 20:06:49 | INFO]: Session initialized: Layer 158
+[05.06.2023 20:06:49 | INFO]: Device: CPython 3.11.2 - Pyrogram 2.0.106
+[05.06.2023 20:06:49 | INFO]: System: Windows 10 (en)
+[05.06.2023 20:06:49 | INFO]: Session started
+[05.06.2023 20:06:49 | INFO]: PingTask started
+[05.06.2023 20:06:49 | INFO]: Started 24 HandlerTasks
+[05.06.2023 20:06:49 | INFO]: Stopped 24 HandlerTasks
+[05.06.2023 20:06:49 | INFO]: PingTask stopped
+[05.06.2023 20:06:49 | INFO]: Disconnected
+[05.06.2023 20:06:49 | INFO]: NetworkTask stopped
+[05.06.2023 20:06:49 | INFO]: Session stopped
+[05.06.2023 20:09:34 | INFO]: Stop polling...
+[05.06.2023 20:09:34 | WARNING]: Goodbye!
+[05.06.2023 20:09:36 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 20:09:36 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 20:09:36 | WARNING]: Updates were skipped successfully.
+[05.06.2023 20:09:36 | INFO]: Start polling.
+[05.06.2023 20:31:05 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-82' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=TypeError("replaceYml() missing 2 required positional arguments: 'ind' and 'outd'")>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_start.py", line 12, in cmd_start_private
+    msg = await replaceYml(await replaceYml(data['messages']['start']['cmdStartPrivate'], ['{name}'], [user.full_name]))
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: replaceYml() missing 2 required positional arguments: 'ind' and 'outd'
+[05.06.2023 20:34:28 | INFO]: Stop polling...
+[05.06.2023 20:34:28 | WARNING]: Goodbye!
+[05.06.2023 20:34:30 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 20:34:30 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 20:34:30 | WARNING]: Updates were skipped successfully.
+[05.06.2023 20:34:30 | INFO]: Start polling.
+[05.06.2023 20:34:32 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=TypeError("replaceYml() missing 2 required positional arguments: 'ind' and 'outd'")>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\handlers\cmd_start.py", line 12, in cmd_start_private
+    msg = await replaceYml(await replaceYml(data['messages']['start']['cmdStartPrivate'],
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: replaceYml() missing 2 required positional arguments: 'ind' and 'outd'
+[05.06.2023 20:34:58 | INFO]: Stop polling...
+[05.06.2023 20:34:58 | WARNING]: Goodbye!
+[05.06.2023 20:35:00 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 20:35:00 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 20:35:00 | WARNING]: Updates were skipped successfully.
+[05.06.2023 20:35:00 | INFO]: Start polling.
+[05.06.2023 20:39:43 | INFO]: Stop polling...
+[05.06.2023 20:39:43 | WARNING]: Goodbye!
+[05.06.2023 20:39:46 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.06.2023 20:39:46 | INFO]: Bot: Негр [@xneurox_bot]
+[05.06.2023 20:39:46 | WARNING]: Updates were skipped successfully.
+[05.06.2023 20:39:46 | INFO]: Start polling.
+[05.06.2023 21:16:33 | INFO]: Stop polling...
+[05.06.2023 21:16:33 | WARNING]: Goodbye!

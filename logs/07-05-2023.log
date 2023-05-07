@@ -1,0 +1,446 @@
+[05.07.2023 16:27:27 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 16:27:27 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 16:27:28 | WARNING]: Updates were skipped successfully.
+[05.07.2023 16:27:28 | INFO]: Start polling.
+[05.07.2023 16:28:34 | INFO]: Stop polling...
+[05.07.2023 16:28:34 | WARNING]: Goodbye!
+[05.07.2023 16:28:36 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 16:28:36 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 16:28:36 | WARNING]: Updates were skipped successfully.
+[05.07.2023 16:28:37 | INFO]: Start polling.
+[05.07.2023 16:29:02 | INFO]: Stop polling...
+[05.07.2023 16:29:02 | WARNING]: Goodbye!
+[05.07.2023 16:29:04 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 16:29:04 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 16:29:04 | WARNING]: Updates were skipped successfully.
+[05.07.2023 16:29:04 | INFO]: Start polling.
+[05.07.2023 16:29:05 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Database' object has no attribute 'c'")>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 121, in wrapper
+    dialogs = await db.getDialogs(usrid)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\databases\datamanger.py", line 22, in getDialogs
+    self.c.execute("SELECT * FROM dialogs WHERE id1=? OR id2=?", (id, id))
+    ^^^^^^
+AttributeError: 'Database' object has no attribute 'c'
+[05.07.2023 16:34:09 | INFO]: Stop polling...
+[05.07.2023 16:34:09 | WARNING]: Goodbye!
+[05.07.2023 16:34:11 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 16:34:11 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 16:34:11 | WARNING]: Updates were skipped successfully.
+[05.07.2023 16:34:11 | INFO]: Start polling.
+[05.07.2023 16:34:12 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'DatabaseManager' object has no attribute 'c'")>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 121, in wrapper
+    dialogs = await db.getDialogs(usrid)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\databases\datamanger.py", line 22, in getDialogs
+    self.c.execute("SELECT * FROM dialogs WHERE id1=? OR id2=?", (id, id))
+    ^^^^^^
+AttributeError: 'DatabaseManager' object has no attribute 'c'
+[05.07.2023 16:37:09 | INFO]: Stop polling...
+[05.07.2023 16:37:09 | WARNING]: Goodbye!
+[05.07.2023 16:43:29 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 16:43:29 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 16:43:30 | WARNING]: Updates were skipped successfully.
+[05.07.2023 16:43:30 | INFO]: Start polling.
+[05.07.2023 16:43:41 | INFO]: Stop polling...
+[05.07.2023 16:43:41 | WARNING]: Goodbye!
+[05.07.2023 16:44:06 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 16:44:06 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 16:44:06 | WARNING]: Updates were skipped successfully.
+[05.07.2023 16:44:07 | INFO]: Start polling.
+[05.07.2023 16:47:02 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: id')>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 124, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\anonChat.py", line 14, in cmd_search
+    dialog = await db.getNullDialogs()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\databases\datamanger.py", line 27, in getNullDialogs
+    self.c.execute("SELECT * FROM dialogs WHERE id=?", (None, ))
+sqlite3.OperationalError: no such column: id
+[05.07.2023 16:47:33 | INFO]: Stop polling...
+[05.07.2023 16:47:33 | WARNING]: Goodbye!
+[05.07.2023 16:47:35 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 16:47:36 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 16:47:36 | WARNING]: Updates were skipped successfully.
+[05.07.2023 16:47:36 | INFO]: Start polling.
+[05.07.2023 16:47:52 | INFO]: Stop polling...
+[05.07.2023 16:47:52 | WARNING]: Goodbye!
+[05.07.2023 16:47:55 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 16:47:55 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 16:47:55 | WARNING]: Updates were skipped successfully.
+[05.07.2023 16:47:55 | INFO]: Start polling.
+[05.07.2023 16:48:24 | INFO]: Stop polling...
+[05.07.2023 16:48:24 | WARNING]: Goodbye!
+[05.07.2023 16:48:26 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 16:48:26 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 16:48:26 | WARNING]: Updates were skipped successfully.
+[05.07.2023 16:48:26 | INFO]: Start polling.
+[05.07.2023 16:52:53 | INFO]: Stop polling...
+[05.07.2023 16:52:53 | WARNING]: Goodbye!
+[05.07.2023 16:52:55 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 16:52:55 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 16:52:56 | WARNING]: Updates were skipped successfully.
+[05.07.2023 16:52:56 | INFO]: Start polling.
+[05.07.2023 16:54:54 | INFO]: Stop polling...
+[05.07.2023 16:54:54 | WARNING]: Goodbye!
+[05.07.2023 16:54:56 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 16:54:56 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 16:54:56 | WARNING]: Updates were skipped successfully.
+[05.07.2023 16:54:56 | INFO]: Start polling.
+[05.07.2023 16:55:53 | INFO]: Stop polling...
+[05.07.2023 16:55:53 | WARNING]: Goodbye!
+[05.07.2023 16:56:01 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 16:56:01 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 16:56:01 | WARNING]: Updates were skipped successfully.
+[05.07.2023 16:56:01 | INFO]: Start polling.
+[05.07.2023 17:00:09 | INFO]: Stop polling...
+[05.07.2023 17:00:09 | WARNING]: Goodbye!
+[05.07.2023 17:00:11 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 17:00:12 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 17:00:12 | WARNING]: Updates were skipped successfully.
+[05.07.2023 17:00:12 | INFO]: Start polling.
+[05.07.2023 17:09:10 | INFO]: Stop polling...
+[05.07.2023 17:09:10 | WARNING]: Goodbye!
+[05.07.2023 17:09:13 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 17:09:13 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 17:09:13 | WARNING]: Updates were skipped successfully.
+[05.07.2023 17:09:13 | INFO]: Start polling.
+[05.07.2023 17:09:33 | INFO]: Stop polling...
+[05.07.2023 17:09:33 | WARNING]: Goodbye!
+[05.07.2023 17:09:35 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 17:09:36 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 17:09:36 | WARNING]: Updates were skipped successfully.
+[05.07.2023 17:09:36 | INFO]: Start polling.
+[05.07.2023 17:10:38 | INFO]: Stop polling...
+[05.07.2023 17:10:38 | WARNING]: Goodbye!
+[05.07.2023 17:10:40 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 17:10:40 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 17:10:40 | WARNING]: Updates were skipped successfully.
+[05.07.2023 17:10:40 | INFO]: Start polling.
+[05.07.2023 17:11:09 | INFO]: Stop polling...
+[05.07.2023 17:11:09 | WARNING]: Goodbye!
+[05.07.2023 17:11:11 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 17:11:12 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 17:11:12 | WARNING]: Updates were skipped successfully.
+[05.07.2023 17:11:12 | INFO]: Start polling.
+[05.07.2023 17:11:27 | INFO]: Stop polling...
+[05.07.2023 17:11:27 | WARNING]: Goodbye!
+[05.07.2023 17:11:29 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 17:11:30 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 17:11:30 | WARNING]: Updates were skipped successfully.
+[05.07.2023 17:11:30 | INFO]: Start polling.
+[05.07.2023 17:16:33 | INFO]: Stop polling...
+[05.07.2023 17:16:33 | WARNING]: Goodbye!
+[05.07.2023 17:16:38 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 17:16:38 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 17:16:39 | WARNING]: Updates were skipped successfully.
+[05.07.2023 17:16:39 | INFO]: Start polling.
+[05.07.2023 17:19:58 | INFO]: Stop polling...
+[05.07.2023 17:19:58 | WARNING]: Goodbye!
+[05.07.2023 17:20:01 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 17:20:01 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 17:20:01 | WARNING]: Updates were skipped successfully.
+[05.07.2023 17:20:01 | INFO]: Start polling.
+[05.07.2023 17:30:44 | INFO]: Stop polling...
+[05.07.2023 17:30:44 | WARNING]: Goodbye!
+[05.07.2023 17:30:46 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 17:30:46 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 17:30:47 | WARNING]: Updates were skipped successfully.
+[05.07.2023 17:30:47 | INFO]: Start polling.
+[05.07.2023 17:31:28 | INFO]: Stop polling...
+[05.07.2023 17:31:28 | WARNING]: Goodbye!
+[05.07.2023 17:31:30 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 17:31:30 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 17:31:30 | WARNING]: Updates were skipped successfully.
+[05.07.2023 17:31:30 | INFO]: Start polling.
+[05.07.2023 17:32:16 | INFO]: Stop polling...
+[05.07.2023 17:32:16 | WARNING]: Goodbye!
+[05.07.2023 17:32:18 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 17:32:18 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 17:32:18 | WARNING]: Updates were skipped successfully.
+[05.07.2023 17:32:18 | INFO]: Start polling.
+[05.07.2023 17:35:24 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-19' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=TypeError("'coroutine' object is not subscriptable")>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 140, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\anonChat.py", line 33, in cmd_forward_message
+    dialog = dialog[0]
+             ~~~~~~^^^
+TypeError: 'coroutine' object is not subscriptable
+[05.07.2023 17:58:05 | INFO]: Stop polling...
+[05.07.2023 17:58:05 | WARNING]: Goodbye!
+[05.07.2023 17:58:08 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 17:58:08 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 17:58:08 | WARNING]: Updates were skipped successfully.
+[05.07.2023 17:58:08 | INFO]: Start polling.
+[05.07.2023 17:58:10 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=TypeError("'coroutine' object is not subscriptable")>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 140, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\anonChat.py", line 33, in cmd_forward_message
+    dialog = dialog[0]
+             ~~~~~~^^^
+TypeError: 'coroutine' object is not subscriptable
+[05.07.2023 17:58:30 | INFO]: Stop polling...
+[05.07.2023 17:58:30 | WARNING]: Goodbye!
+[05.07.2023 17:58:33 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 17:58:33 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 17:58:33 | WARNING]: Updates were skipped successfully.
+[05.07.2023 17:58:33 | INFO]: Start polling.
+[05.07.2023 18:11:40 | INFO]: Stop polling...
+[05.07.2023 18:11:40 | WARNING]: Goodbye!
+[05.07.2023 18:11:42 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 18:11:42 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 18:11:42 | WARNING]: Updates were skipped successfully.
+[05.07.2023 18:11:43 | INFO]: Start polling.
+[05.07.2023 18:18:27 | INFO]: Stop polling...
+[05.07.2023 18:18:27 | WARNING]: Goodbye!
+[05.07.2023 18:18:30 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 18:18:30 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 18:18:30 | WARNING]: Updates were skipped successfully.
+[05.07.2023 18:18:30 | INFO]: Start polling.
+[05.07.2023 18:19:58 | INFO]: Stop polling...
+[05.07.2023 18:19:58 | WARNING]: Goodbye!
+[05.07.2023 18:20:00 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 18:20:00 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 18:20:00 | WARNING]: Updates were skipped successfully.
+[05.07.2023 18:20:00 | INFO]: Start polling.
+[05.07.2023 18:20:03 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ProgrammingError('Incorrect number of bindings supplied. The current statement uses 2, and there are 1 supplied.')>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 140, in wrapper
+    await func(*args)
+  File "E:\PYprojects\bots\negrV2.2\handlers\anonChat.py", line 57, in cmd_stop_dialog
+    await db.stopDialog(user.id)
+  File "E:\PYprojects\bots\negrV2.2\databases\datamanger.py", line 36, in stopDialog
+    self.c.execute("DELETE FROM dialogs WHERE id1=? OR id2=?", (id, ))
+sqlite3.ProgrammingError: Incorrect number of bindings supplied. The current statement uses 2, and there are 1 supplied.
+[05.07.2023 18:20:33 | INFO]: Stop polling...
+[05.07.2023 18:20:33 | WARNING]: Goodbye!
+[05.07.2023 18:20:35 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 18:20:35 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 18:20:35 | WARNING]: Updates were skipped successfully.
+[05.07.2023 18:20:35 | INFO]: Start polling.
+[05.07.2023 18:22:27 | INFO]: Stop polling...
+[05.07.2023 18:22:27 | WARNING]: Goodbye!
+[05.07.2023 18:22:29 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 18:22:29 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 18:22:29 | WARNING]: Updates were skipped successfully.
+[05.07.2023 18:22:30 | INFO]: Start polling.
+[05.07.2023 18:56:39 | INFO]: Stop polling...
+[05.07.2023 18:56:39 | WARNING]: Goodbye!
+[05.07.2023 18:56:41 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 18:56:41 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 18:56:42 | WARNING]: Updates were skipped successfully.
+[05.07.2023 18:56:42 | INFO]: Start polling.
+[05.07.2023 18:57:02 | ERROR]: Task exception was never retrieved
+future: <Task finished name='Task-16' coro=<Dispatcher._process_polling_updates() done, defined at E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=KeyError('can_manage_chat')>
+Traceback (most recent call last):
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\utils\misc.py", line 51, in wrapper
+    if not botID[perm]:
+           ~~~~~^^^^^^
+  File "E:\PYprojects\bots\negrV2.2\venv\Lib\site-packages\aiogram\types\base.py", line 234, in __getitem__
+    return self.values[item]
+           ~~~~~~~~~~~^^^^^^
+KeyError: 'can_manage_chat'
+[05.07.2023 18:58:24 | INFO]: Stop polling...
+[05.07.2023 18:58:24 | WARNING]: Goodbye!
+[05.07.2023 18:58:26 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 18:58:27 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 18:58:27 | WARNING]: Updates were skipped successfully.
+[05.07.2023 18:58:27 | INFO]: Start polling.
+[05.07.2023 19:08:36 | INFO]: Stop polling...
+[05.07.2023 19:08:36 | WARNING]: Goodbye!
+[05.07.2023 19:08:38 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 19:08:38 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 19:08:38 | WARNING]: Updates were skipped successfully.
+[05.07.2023 19:08:38 | INFO]: Start polling.
+[05.07.2023 19:10:57 | INFO]: Stop polling...
+[05.07.2023 19:10:57 | WARNING]: Goodbye!
+[05.07.2023 19:10:59 | INFO]: 
+
+---------------[Bot started!]---------------
+[05.07.2023 19:11:00 | INFO]: Bot: Негр [@xneurox_bot]
+[05.07.2023 19:11:00 | WARNING]: Updates were skipped successfully.
+[05.07.2023 19:11:00 | INFO]: Start polling.
+[05.07.2023 19:32:52 | INFO]: Stop polling...
+[05.07.2023 19:32:52 | WARNING]: Goodbye!
